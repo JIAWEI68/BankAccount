@@ -29,7 +29,6 @@ public void creditAccount(double amountToCredit)
 {
     this.balance +=amountToCredit;
 }
-public double TransferAmount(double amountToTransfer){this.balance -=amountToTransfer;}
 public double getBalance()
 {
     return this.balance;

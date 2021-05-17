@@ -1,0 +1,3 @@
+include ':BankAccount'
+include ':app'
+rootProject.name = "Bank Accounttest"
